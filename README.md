@@ -16,7 +16,7 @@
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/adityanhebbar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://linkedin.com/in/hebbaraditya"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/hebbar_aditya"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.kaggle.com/hebbaraditya"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://medium.com/@@hebbaraditya"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
