@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Hebbar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Aditya Hebbar</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
 
 ## 💫 Liitle Bit More About Me
@@ -21,3 +21,4 @@
 <a href="https://www.kaggle.com/hebbaraditya"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://medium.com/@@hebbaraditya"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
+ -->
